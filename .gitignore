@@ -1,0 +1,6 @@
+*.psd
+*.pdb
+*.iobj
+*.ipdb
+sound/*
+!sound/*.txt
